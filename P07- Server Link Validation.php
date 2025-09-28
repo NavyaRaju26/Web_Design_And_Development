@@ -1,3 +1,4 @@
+
 <?php
 if(isset($_POST['Submit'])){
  $name=trim($_POST["emp_name"]);
